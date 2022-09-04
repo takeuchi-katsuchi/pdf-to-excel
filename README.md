@@ -2,7 +2,9 @@
 - EC2にデプロイしたため、サーバーを起動すると、こちらのリンクにアクセス出来る。(http://3.112.45.162:8000/login)
 <img width="874" alt="スクリーンショット 2022-09-04 19 59 49" src="https://user-images.githubusercontent.com/65029417/188310016-cdee875b-4feb-4626-a372-e461b4595456.png">
 
-- ログイン機能
+
+- ログイン画面 (ユーザー名がtest01、passwordがpassword)
+
 ![スクリーンショット 2022-09-04 19 19 55](https://user-images.githubusercontent.com/65029417/188310065-20e88139-6aaa-4f25-aaf6-8d8e71d9133f.png)
 
 - 一覧画面 (AdminLTEという管理画面のテンプレートを使用。)
